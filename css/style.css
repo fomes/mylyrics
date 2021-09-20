@@ -1,0 +1,16 @@
+/* Footer always on bottom, not fixed */
+body {
+  background-image: linear-gradient( 359.8deg,  rgba(252,255,222,1) 2.2%, rgba(182,241,171,1) 99.3% );
+  position: relative;
+  padding-bottom: 58px;
+  min-height: 100vh;
+}
+
+.footer {
+  bottom: 0;
+  text-align: center;
+  padding: 20px;
+  position: absolute;
+  width: 100%;
+}
+/* Footer always on bottom, not fixed */
