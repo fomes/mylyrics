@@ -1,6 +1,6 @@
 # Lyrics Project
 
-#### [DEMO](https://fomes.github.io/lyrics)
+#### [DEMO](https://fomes-mylyrics.netlify.app/)
 
 A simple javascript code that access API of lyrics.
 
